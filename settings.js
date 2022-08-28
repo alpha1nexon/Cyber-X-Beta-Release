@@ -39,7 +39,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['919776517392'] //ur owner number
 global.ownername = "sɢ𝖲𝖮𝖴𝖬𝖸𝖠" //ur owner name
 global.ytname = "YT:" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.socialm = "GitHub: alpha1nexon" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
@@ -48,7 +48,7 @@ global.ownertag = '919776517392' //ur tag number
 global.botname = 'CYBER-X TEST EDITION' //ur bot name
 global.ig = "https://www.instagram.com/Itz_soumya_s14/" //your theme url which will be displayed on whatsapp
 global.myweb = "https://www.instagram.com/Itz_soumya_s14/" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
+global.sc = 'https://github.com/alpha1nexon' //script link
 global.linkz = 'https://www.instagram.com/Itz_soumya_s14/'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['919776517392'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
