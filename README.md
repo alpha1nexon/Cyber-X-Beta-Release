@@ -7,7 +7,7 @@
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
 ## Deploy Link Template 
-```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
+```https://heroku.com/deploy?template=https://github.com/alpha1nexon/Cyber-X-Beta-Release```
 ## Support Group 
 https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
@@ -16,7 +16,7 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 ## බටන් ගැටලුව විසදීමත් සමගම සමහර අවස්තාවලදි බොට් ක්‍රියාකාරිත්වය ඉබේ නැවතිය හැකිය. එනිසා එසෙ වුවහොත් නැවත් බොට් On කරන්න .ඉක්මනින් පිලියමක් සොයා දෙන්නම්.
 
 ## STEPS
-<br>
+<br> https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release
 
 1. Click [SCAN](https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
